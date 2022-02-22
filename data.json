@@ -1,0 +1,90 @@
+
+[
+    {
+    "id": 1,
+    "img": "ssc_All.webp",
+    "name": "SSC Exams",
+    "subOb":[
+        {
+        "img": "SSC_All.webp",
+        "name": "SSC GD Constable"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC CGL"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC CHSL"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC MTS"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC JHT"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC JE CE"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC Selection Post"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC Stenographer"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC CPO"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC JE EE"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC JE ME"
+    },
+    {
+        "img": "UPSC_All.webp",
+        "name": "Delhi Forest Guard"
+    },
+    {
+        "img": "UPSC_All.webp",
+        "name": "IB ACIO"
+    },
+    {
+        "img": "UPSC_All.webp",
+        "name": "NBE"
+    },
+    {
+        "img": "UPSC_All.webp",
+        "name": "RSMSSB JE"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "ICMR Assistant"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC Scientific Assistant"
+    },
+    {
+        "img": "UPSC_All.webp",
+        "name": "IB Security Assistant"
+    },
+    {
+        "img": "SSC_All.webp",
+        "name": "SSC JE"
+    },
+    {
+        "img": "JEE Mains NTA_All.webp",
+        "name": "NTA Delhi University"
+    }
+]
+}
+]
