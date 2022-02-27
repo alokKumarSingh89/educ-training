@@ -214,20 +214,326 @@
             {
                 "img": "JEE Mains NTA_All.webp",
                 "name": "IT Officer-Scale |"
-            },{
+            },
+            {
                 "img": "JEE Mains NTA_All.webp",
-                "name": "South Indian Bank PO"
+                "name": "Akola DCC Bank Juinor"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "APCOB staff assistant"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Agricultural Field Offoce"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "EPFO SSA"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "SBI SO"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "HR Personal Officer"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "J&K Bank Clerk"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "HARCO Bank Clerk"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI Assistant"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI Grade B"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "South Indian Bank Clerk"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Law Officer-Scale |"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Rajbhasha Adhikari-S"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI Officer Attendant"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "HR Personal Officer"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "J&K Bank Clerk"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "HARCO Bank Clerk"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI Assistant"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI Grade B "
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "South Indian Bank Clerk"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Law Officer-Scale |"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Rajbhasha Adhikari- S"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI  Office Attendant"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "SEBI Grade A"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI JE"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "NABARD Grade A"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RBI Security Guard"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "NABARD Development"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "RSCB"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Canara Bank SO"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "BSCB Assistant Multip...."
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "NABARD Grade B"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Indian Bank Security G"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "OSCB Banking Assistant"
+            },
+            { 
+                "img": "JEE Mains NTA_All.webp",
+                "name": "OSCB Assistant Manager"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "OSCB Junior Manager"
             }
+
         ]
     },
     {
         "id": 3,
         "img": "teaching_All.webp",
-        "name": "Teaching Exams"
+        "name": "Teaching Exams",
+        "subOb": [
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC GD Constable"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC CGL"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC CHSL"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC MTS"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JHT"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE CE"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC Selection Post"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC Stenographer"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC CPO"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE EE"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE ME"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "Delhi Forest Guard"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "IB ACIO"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "NBE"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "RSMSSB JE"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "ICMR Assistant"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC Scientific Assistant"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "IB Security Assistant"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "NTA Delhi University"
+            }
+        ]
     },
     {
         "id": 4,
         "img": "UPSC_All.webp",
-        "name": "Civil Services Exam"
+        "name": "Civil Services Exam",
+        "subOb": [
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC GD Constable"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC CGL"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC CHSL"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC MTS"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JHT"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE CE"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC Selection Post"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC Stenographer"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC CPO"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE EE"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE ME"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "Delhi Forest Guard"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "IB ACIO"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "NBE"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "RSMSSB JE"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "ICMR Assistant"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC Scientific Assistant"
+            },
+            {
+                "img": "UPSC_All.webp",
+                "name": "IB Security Assistant"
+            },
+            {
+                "img": "SSC_All.webp",
+                "name": "SSC JE"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "NTA Delhi University"
+            }
+        ]
     }
 ]
