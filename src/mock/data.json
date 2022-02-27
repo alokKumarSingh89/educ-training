@@ -369,83 +369,219 @@
         "subOb": [
             {
                 "img": "SSC_All.webp",
-                "name": "SSC GD Constable"
+                "name": "CTET"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC CGL"
+                "name": "UPTET"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC CHSL"
+                "name": "REET"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC MTS"
+                "name": "UGC NET"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC JHT"
+                "name": "SUPER TET"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC JE CE"
+                "name": "DSSSB TGT"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC Selection Post"
+                "name": "DSSSB PRT"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC Stenographer"
+                "name": "UP TGT"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC CPO"
+                "name": "KVS"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC JE EE"
+                "name": "UP B.ED JEE"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC JE ME"
+                "name": "HTET"
             },
             {
                 "img": "UPSC_All.webp",
-                "name": "Delhi Forest Guard"
+                "name": "NTA Delhi University"
             },
             {
                 "img": "UPSC_All.webp",
-                "name": "IB ACIO"
+                "name": "Rajsthan PTET"
             },
             {
                 "img": "UPSC_All.webp",
-                "name": "NBE"
+                "name": "UTET"
             },
             {
                 "img": "UPSC_All.webp",
-                "name": "RSMSSB JE"
+                "name": "MPTET"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "ICMR Assistant"
+                "name": "UPPSC Lecture"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC Scientific Assistant"
+                "name": "KVS TGT"
             },
             {
                 "img": "UPSC_All.webp",
-                "name": "IB Security Assistant"
+                "name": "Allhabad University G"
             },
             {
                 "img": "SSC_All.webp",
-                "name": "SSC JE"
+                "name": "MAHA TET"
             },
             {
                 "img": "JEE Mains NTA_All.webp",
-                "name": "NTA Delhi University"
+                "name": "UP PGT"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Bihar CTE B.ED"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "EMRS TGT"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "AWES Army Public School"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Bihar STET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "TN TRB ME"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "KVS PGT"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "HP TET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "DSSSB PGT"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "TN TRB CE"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "UP Junior High School"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "OTET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "EMRS PGT"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Rajasthan Computer T"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Tripura TET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "WB TET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "DSE Odisha TGT"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "CUCET Exam"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Punjab Pre-Primary Te..."
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "TN TRB CS"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "TN TRB EE"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "TN TRB PG Assistant"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "MAH B.ED CET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "TN TRB EC"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Assam RET"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "DU B.Ed"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "IGNOU B.Ed"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Allahabad Univercity G"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Allahabad Univercity G"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "MP B.Ed"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "OSSTET Exam"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "Haryana B.Ed"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "CG B.Ed"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "UKPSC Lecture"
+            },
+            {
+                "img": "JEE Mains NTA_All.webp",
+                "name": "KTET"
             }
         ]
     },
